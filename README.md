@@ -1,1 +1,26 @@
 # pythonLAB_assignment-02
+# 📘 Gradebook Analyzer (Python CLI Project)
+
+A simple Python command-line tool to analyse student grades.  
+It allows users to enter student data manually or import data from a CSV file.  
+The program automatically assigns grades, validates input, and prints a clean, formatted report.
+
+---
+
+##  Features
+
+- Manual entry of student names and marks  
+- Import student marks from a CSV file  
+- Automatic grade calculation (A, B, C, D, F)  
+- Input validation and error handling  
+- Skip invalid or empty CSV rows  
+- Neat and readable student report  
+- Menu-driven CLI interface  
+
+---
+
+##  Project Structure
+gradebook_analyzer.py # Main Python program
+students.csv (optional) # CSV file to import data
+README.md # Project documentation
+
